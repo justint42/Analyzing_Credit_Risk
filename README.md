@@ -4,7 +4,7 @@
 
 ## Purpose
 
-The user will practice widely-known, beginner level supervised machine-learning method to assess individual customer credit risk. Since good loans typically outnumber risky loans, credit risk is an inherently unbalanced classification problem. Because of this, we will use different techniques to train and evaluate models with unbalanced classes. We will use **imbalanced-learn** and **scikit-learn** libraries to build and evaluate models using resampling. We will use a credit card dataset from LendingClub, a peer-to-peer lending services company. 
+The user will practice widely-known, beginner level supervised machine-learning methods to assess individual customer credit risk. Since good loans typically outnumber risky loans, credit risk is an inherently unbalanced classification problem. Because of this, we will use different techniques to train and evaluate models with unbalanced classes. We will use **imbalanced-learn** and **scikit-learn** libraries to build and evaluate models using resampling. We will use a credit card dataset from LendingClub, a peer-to-peer lending services company. 
 
 
 ## Results
